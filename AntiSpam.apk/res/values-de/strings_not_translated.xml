@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="MALICIOUS_URL">Malicious link</string>
+     <string name="antispam_xpace_text">Please switch to owner space to do antispam settings</string>
+</resources>

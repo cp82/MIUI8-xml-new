@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="album_count_and_size">
+        <item quantity="other">%1$d items | %2$s</item>
+        <item quantity="one">%1$d item | %2$s</item>
+     </plurals>
+     <plurals name="backup_waiting">
+        <item quantity="other">%1$d items wait to be backup</item>
+        <item quantity="one">%1$d item waits to be backup</item>
+     </plurals>
+     <plurals name="backuped">
+        <item quantity="other">%1$d items have been backuped</item>
+        <item quantity="one">%1$d item has been backuped</item>
+     </plurals>
+     <plurals name="cloud_space_full">
+        <item quantity="other">Cloud space is full. %1$d items wait to be backup</item>
+        <item quantity="one">Cloud space is full. %1$d item waits to be backup</item>
+     </plurals>
+     <plurals name="custom_select_title_items_selected">
+        <item quantity="other">%d items selected</item>
+        <item quantity="one">%d item selected</item>
+     </plurals>
+     <plurals name="download_error">
+        <item quantity="other">%1$d files download error</item>
+        <item quantity="one">%1$d file downloads error</item>
+     </plurals>
+     <plurals name="local_space_full">
+        <item quantity="other">Local space is low. %1$d items wait to be backup</item>
+        <item quantity="one">Local space is low. %1$d item waits to be backup</item>
+     </plurals>
+     <plurals name="network_unsatisfied">
+        <item quantity="other">Network error. %1$d items wait to be backup</item>
+        <item quantity="one">Network error. %1$d item waits to be backup</item>
+     </plurals>
+     <plurals name="sync_off">
+        <item quantity="other">Sync is off. %1$d items wait to be backup</item>
+        <item quantity="one">Sync is off. %1$d item waits to be backup</item>
+     </plurals>
+</resources>

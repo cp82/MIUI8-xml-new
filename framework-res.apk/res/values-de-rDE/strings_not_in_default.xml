@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="gigabyteShort">GB</string>
+     <string name="kilobyteShort">KB</string>
+     <string name="megabyteShort">MB</string>
+     <string name="petabyteShort">PB</string>
+     <string name="terabyteShort">TB</string>
+</resources>

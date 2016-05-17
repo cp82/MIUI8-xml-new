@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="contact_edit_set_black_list_array">
+        <item>@string/contact_edit_set_black_list_from</item>
+        <item>@string/contact_edit_set_black_list_receive</item>
+     </string-array>
+</resources>

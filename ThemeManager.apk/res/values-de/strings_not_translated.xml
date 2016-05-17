@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="audio_duration_minutes_format">%1$d minutes</string>
+     <string name="audio_duration_seconds_format">%1$d seconds</string>
+     <string name="browser_local_resource">Local resources</string>
+     <string name="change_host_hint">change host</string>
+     <string name="component_backup_preference_title">Back up theme</string>
+     <string name="component_title_ringtone">ringtone</string>
+     <string name="component_title_wallpaper">wallpaper</string>
+     <string name="dev_options">DEV OPTIONS</string>
+     <string name="dev_options_summary">Web Resource</string>
+     <string name="local_resouce_creator_name">Developer: %1$s</string>
+     <string name="no_data">"Can't connect to the network"</string>
+     <string name="reload">Try again</string>
+     <string name="resource_detail_description_pic_text">%1$d icons total</string>
+     <string name="resource_detail_header_theme_designer_title">Designer: %1$s</string>
+     <string name="resource_price_format">(%1$s)</string>
+     <string name="resource_waiting_pause">Pause</string>
+     <string name="search_hint_header_text">Hot words</string>
+     <string name="theme_apply_audio_dialog_item_alarm">Alarm</string>
+     <string name="theme_apply_audio_dialog_item_notification">Notification</string>
+     <string name="theme_apply_audio_dialog_item_ringtone">Ringtone</string>
+     <string name="theme_bug_report">Bug Report</string>
+     <string name="title_my_audio_resource">My ringtones</string>
+     <string name="title_my_wallpaper_resource">My wallpapers</string>
+     <string name="title_system_audio_resource">System ringtones</string>
+     <string name="title_system_wallpaper_resource">System wallpapers</string>
+</resources>

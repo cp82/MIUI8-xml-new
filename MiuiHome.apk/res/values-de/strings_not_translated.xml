@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="change_wallpaper">Change</string>
+     <string name="confirm_uninstall_dialog_contain_xspace_app_msg">Cloned apps will be uninstalled together with these ones.</string>
+     <string name="confirm_uninstall_dialog_has_xspace_app_msg">Cloned app will be uninstalled together with this one.</string>
+     <string name="confirm_uninstall_dialog_title">Corresponding cloned apps will be removed.</string>
+     <string name="default_folder_title_claro">Claro</string>
+     <string name="default_folder_title_telcel">Telcel</string>
+     <string name="home_screen">Home screen</string>
+     <string name="lock_screen">Lock screen</string>
+     <string name="lock_screen_wallpaper">Lock screen wallpaper</string>
+     <string name="normal_wallpaper">Wallpaper</string>
+     <string name="uninstall_with_xspace_dialog_message">Corresponding cloned apps will be removed together with app data.</string>
+     <string name="uninstall_xspace_dialog_message">Uninstalling cloned app will remove all app data.</string>
+     <string name="uninstall_xspace_dialog_title_format">Uninstall cloned \"%s\"</string>
+     <string name="wallpaper_scroll_type_tips">Wallpaper scroll</string>
+</resources>

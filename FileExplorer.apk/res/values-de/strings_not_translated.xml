@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="good_tip">Well done!</string>
+     <string name="network_not_available">"Can't connect to the network"</string>
+     <string name="no_login_btn_text">Immediately login</string>
+     <string name="no_login_tip">Involved in the topic and win a prize</string>
+     <string name="request_timeout">Network request timed out</string>
+     <string name="symbol_for_storage_tip">:</string>
+</resources>

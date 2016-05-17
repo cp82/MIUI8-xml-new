@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="add_to_desktop">Add to desktop</string>
+     <string name="agree_to_continue">Continue</string>
+     <string name="agree_to_turn_on">Agree</string>
+     <string name="data_error_show">An error occurred</string>
+     <string name="didi_back">back</string>
+     <string name="didi_close">close</string>
+     <string name="express_inquiry_and_send">Tracking and sending</string>
+     <string name="express_inquiry_status_delivered">Delivered</string>
+     <string name="express_inquiry_status_difficult_goods">Difficult goods</string>
+     <string name="express_inquiry_status_dispatch">Dispatching</string>
+     <string name="express_inquiry_status_on_the_way">On the way</string>
+     <string name="express_inquiry_status_receipted">Receipted</string>
+     <string name="express_inquiry_status_return">Return</string>
+     <string name="express_inquiry_status_sign_out">Sign out</string>
+     <string name="express_inquiry_status_unknown">UNKNOWN</string>
+     <string name="express_shortcut_name">Query or send express</string>
+     <string name="express_show_all_inquiry_history">Show all inquiry history</string>
+     <string name="homepage_barcode_prompt">Scan to open homepage.</string>
+     <string name="more_express_numbers">More express numbers</string>
+     <string name="open_installed_app">Open</string>
+     <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. In order to reverse phone lookup, we need the permission to access your contacts."</string>
+     <string name="share">Share</string>
+     <string name="title_activity_di_di_web">DiDi</string>
+     <string name="turn_off_hint_title">"Don't identify unknown numbers?"</string>
+     <string name="turn_off_phone_event_hint">"You won't be able to view report info for unknown phone numbers."</string>
+     <string name="turn_off_smart_antispam_hint">Turn off protection for calls from unknown numbers?</string>
+     <string name="turn_on_phone_event_dialog_title">Update number identification database</string>
+</resources>

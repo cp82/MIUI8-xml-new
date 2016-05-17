@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string-array name="agps_reset_type_entries">
+        <item>HOT</item>
+        <item>WARM</item>
+        <item>COLD</item>
+     </string-array>
+     <string-array name="agps_si_mode_entries">
+        <item>MSB</item>
+        <item>MSA</item>
+     </string-array>
+     <string-array name="broadcast_locales">
+        <item>AG</item>
+        <item>AR</item>
+        <item>BO</item>
+        <item>BS</item>
+        <item>BB</item>
+        <item>BZ</item>
+        <item>BR</item>
+        <item>CL</item>
+        <item>CO</item>
+        <item>EC</item>
+        <item>GF</item>
+        <item>GD</item>
+        <item>GY</item>
+        <item>IN</item>
+        <item>IL</item>
+        <item>PY</item>
+        <item>PE</item>
+        <item>SR</item>
+        <item>KN</item>
+        <item>LC</item>
+        <item>VC</item>
+        <item>TW</item>
+        <item>TT</item>
+        <item>UY</item>
+        <item>VE</item>
+     </string-array>
+     <string-array name="captioning_color_selector_titles">
+        <item>@string/color_unspecified</item>
+        <item>@string/color_white</item>
+        <item>@string/color_black</item>
+        <item>@string/color_red</item>
+        <item>@string/color_yellow</item>
+        <item>@string/color_green</item>
+        <item>@string/color_cyan</item>
+        <item>@string/color_blue</item>
+        <item>@string/color_magenta</item>
+     </string-array>
+     <string-array name="captioning_opacity_selector_titles">
+        <item>25%</item>
+        <item>50%</item>
+        <item>75%</item>
+        <item>100%</item>
+     </string-array>
+     <string-array name="common_password_business_clickable_default">
+        <item>true</item>
+        <item>true</item>
+        <item>false</item>
+        <item>true</item>
+     </string-array>
+     <string-array name="data_usage_data_range">
+        <item>Last 30 days</item>
+        <item>Set usage cycle...</item>
+     </string-array>
+     <string-array name="description_primary">
+        <item>骁龙801</item>
+        <item>GB</item>
+        <item>GB</item>
+        <item>5英寸</item>
+        <item>4G</item>
+        <item>1300万像素</item>
+     </string-array>
+     <string-array name="description_secondary">
+        <item>四核2.5GHz</item>
+        <item>机身存储</item>
+        <item>LPDDR3内存</item>
+        <item>全高清屏幕</item>
+        <item>高速网络</item>
+        <item>高画质相机</item>
+     </string-array>
+     <string-array name="dndm_auto_time_trun_on_off">
+        <item>@string/dndm_auto_time_turn_on</item>
+        <item>@string/dndm_auto_time_turn_off</item>
+     </string-array>
+     <string-array name="dndm_vip_list_group_array">
+        <item>@string/dndm_vip_list_all</item>
+        <item>@string/dndm_vip_list_contact</item>
+        <item>@string/dndm_vip_list_starred_contact</item>
+        <item>@string/dndm_vip_list_custom</item>
+     </string-array>
+     <string-array name="eap_method_without_sim_auth">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+     </string-array>
+     <string-array name="entries_color_calibration">
+        <item>sRGB</item>
+        <item>Native</item>
+     </string-array>
+     <string-array name="font_size_title">
+        <item>@string/layout_size_small</item>
+        <item>@string/layout_size_normal</item>
+        <item>@string/layout_size_medium</item>
+        <item>@string/layout_size_large</item>
+        <item>@string/layout_size_huge</item>
+        <item>@string/layout_size_exhuge</item>
+     </string-array>
+     <string-array name="led_color_values">
+        <item>blue</item>
+        <item>red</item>
+        <item>yellow</item>
+        <item>green</item>
+        <item>cyan</item>
+        <item>white</item>
+        <item>\#FFAA00AA</item>
+     </string-array>
+     <string-array name="miui_entries_font_size">
+        <item>S</item>
+        <item>M</item>
+        <item>L</item>
+        <item>XL</item>
+        <item>XXL</item>
+        <item>XXXL</item>
+     </string-array>
+     <string-array name="ncc_locales">
+        <item>TW</item>
+     </string-array>
+     <string-array name="night_mode_entries">
+        <item>@string/night_mode_no</item>
+        <item>@string/night_mode_yes</item>
+        <item>@string/night_mode_auto</item>
+     </string-array>
+     <string-array name="night_mode_values">
+        <item>1</item>
+        <item>2</item>
+        <item>0</item>
+     </string-array>
+     <string-array name="proc_stats_memory_states">
+        <item>Normal</item>
+        <item>Moderate</item>
+        <item>Low</item>
+        <item>Critical</item>
+     </string-array>
+     <array name="ram_colors">
+        <item>@color/memory_normal</item>
+        <item>@color/memory_moderate</item>
+        <item>@color/memory_low</item>
+        <item>@color/memory_critical</item>
+     </array>
+     <string-array name="screen_key_position_action_value">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="screen_resolution_entries">
+        <item>Ultrahigh (2K)</item>
+        <item>Normal (720p)</item>
+     </string-array>
+     <string-array name="security_settings_premium_sms_values">
+        <item>Ask</item>
+        <item>Never allow</item>
+        <item>Always allow</item>
+     </string-array>
+     <string-array name="select_logd_size_lowram_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+     </string-array>
+     <string-array name="select_logd_size_titles">
+        <item>64K</item>
+        <item>256K</item>
+        <item>1M</item>
+        <item>4M</item>
+        <item>16M</item>
+     </string-array>
+     <string-array name="status_bar_style_entries">
+        <item>Single page</item>
+        <item>Dual page</item>
+     </string-array>
+     <string-array name="status_bar_style_values">
+        <item>0</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="tts_pitch_entries">
+        <item>Very low</item>
+        <item>Low</item>
+        <item>Normal</item>
+        <item>High</item>
+        <item>Very high</item>
+     </string-array>
+     <string-array name="tts_rate_entries">
+        <item>Very slow</item>
+        <item>Slow</item>
+        <item>Normal</item>
+        <item>Fast</item>
+        <item>Faster</item>
+        <item>Very fast</item>
+        <item>Rapid</item>
+        <item>Very rapid</item>
+        <item>Fastest</item>
+     </string-array>
+     <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
+     </string-array>
+     <string-array name="usb_configuration_titles">
+        <item>@string/usb_use_charging_only</item>
+        <item>MTP (Media Transfer Protocol)</item>
+        <item>PTP (Picture Transfer Protocol)</item>
+        <item>RNDIS (USB Ethernet)</item>
+        <item>Audio Source</item>
+        <item>MIDI</item>
+     </string-array>
+     <string-array name="usb_configuration_values">
+        <item>none</item>
+        <item>mtp</item>
+        <item>ptp</item>
+        <item>rndis</item>
+        <item>audio_source</item>
+        <item>midi</item>
+     </string-array>
+     <string-array name="wifi_ap_band_config_2G_only">
+        <item>@string/wifi_ap_choose_2G</item>
+     </string-array>
+     <string-array name="wifi_ap_band_config_full">
+        <item>@string/wifi_ap_choose_2G</item>
+        <item>@string/wifi_ap_choose_5G</item>
+     </string-array>
+     <string-array name="wifi_ap_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wpa2</item>
+     </string-array>
+     <string-array name="wifi_calling_mode_values">
+        <item>2</item>
+        <item>1</item>
+     </string-array>
+     <string-array name="wifi_eap_method">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+        <item>"AKA'"</item>
+     </string-array>
+     <string-array name="wifi_eap_method_add_sim">
+        <item>PEAP</item>
+        <item>TLS</item>
+        <item>TTLS</item>
+        <item>PWD</item>
+        <item>SIM</item>
+        <item>AKA</item>
+     </string-array>
+     <string-array name="wifi_eap_method_add_sim_for_cmcc">
+        <item>PEAP</item>
+        <item>SIM</item>
+     </string-array>
+     <string-array name="wifi_security">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>@string/wifi_security_eap</item>
+     </string-array>
+     <string-array name="wifi_security_no_eap">
+        <item>@string/wifi_security_none</item>
+        <item>@string/wifi_security_wep</item>
+        <item>@string/wifi_security_psk_generic</item>
+        <item>WAPI PSK</item>
+        <item>WAPI CERT</item>
+     </string-array>
+     <string-array name="wifi_security_only_wapi_cert_entries">
+        <item>WAPI CERT</item>
+     </string-array>
+     <string-array name="wifi_wapi_key_type">
+        <item>WAPI ASCII</item>
+        <item>WAPI hexadecimal</item>
+     </string-array>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="HIPS_Action_Accept_Once">Allow Once</string>
+     <string name="HIPS_Perm_read_notification_sms">Service SMS</string>
+     <string name="HIPS_Perm_read_notification_sms_Desc">Read service SMS</string>
+     <string name="wakepath_confirm_start_activity">Allow %1$s to open %2$s?</string>
+</resources>

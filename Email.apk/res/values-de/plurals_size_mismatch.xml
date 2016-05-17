@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <!-- Size mismatch! Translated: 1, Original: 2 -->
+     <plurals name="actionbar_unread_messages">
+        <item quantity="other">%1$d封未读邮件</item>
+        <item quantity="one">%1$d封未读邮件</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="confirm_archive_conversation">
+        <item quantity="other">要将这 %1$d 个会话归档吗？</item>
+        <item quantity="one">要将这 %1$d 个会话归档吗？</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="confirm_delete_conversation">
+        <item quantity="other">要删除这 %1$d 个会话吗？</item>
+        <item quantity="one">要删除这 %1$d 个会话吗？</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="confirm_delete_conversation_with_sub">
+        <item quantity="other">会话中包含多封邮件，是否全部删除？</item>
+        <item quantity="one">会话中包含多封邮件，是否全部删除？</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="contact_num_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="empty_folder_dialog_message">
+        <item quantity="other">%1$d封邮件将会永久删除。</item>
+        <item quantity="one">%1$d封邮件将会永久删除。</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="move_conversation">
+        <item quantity="other">移动 %1$d 个会话</item>
+        <item quantity="one">移动 %1$d 个会话</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="new_incoming_messages_many">
+        <item quantity="other">有%1$d封新邮件。显示</item>
+        <item quantity="one">有%1$d封新邮件。显示</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="num_selected">
+        <item quantity="other">已选择%d项</item>
+        <item quantity="one">已选择%d项</item>
+     </plurals>
+     <!-- Size mismatch! Translated: 6, Original: 2 -->
+     <plurals name="show_messages_read">
+        <item quantity="other">%1$d封较早的邮件</item>
+        <item quantity="one">%1$d封较早的邮件</item>
+     </plurals>
+</resources>

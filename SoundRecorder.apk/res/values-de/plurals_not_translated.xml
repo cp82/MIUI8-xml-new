@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="local_records_count">
+        <item quantity="other">%d items</item>
+        <item quantity="one">%d item</item>
+     </plurals>
+     <plurals name="unsynced_records_count">
+        <item quantity="other">%d not synced</item>
+        <item quantity="one">%d not synced</item>
+     </plurals>
+</resources>

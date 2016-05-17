@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="delete_folder_dialog_tile">Delete folder</string>
+     <string name="dlg_move_message">Moving…</string>
+     <string name="dlg_privacy_message">Marking privacy…</string>
+     <string name="dlg_stick_message">Sticking…</string>
+     <string name="dlg_unmark_privacy_message">Unmarking privacy…</string>
+     <string name="empty_folder_hint">"The folder list is empty
+Click add button to create folder"</string>
+     <string name="menu_mark_privacy">Mark Privacy</string>
+     <string name="menu_move_to">Move to</string>
+     <string name="menu_unmark_privacy">Unmark Privacy</string>
+     <string name="privacy_hint">Privacy</string>
+     <string name="privacy_notes_fragment_title">Privacy notes</string>
+     <string name="rename_folder_dialog_tile">Rename folder</string>
+     <string name="search_keyword_notes">Notes;Memo</string>
+     <string name="search_path_notes">Settings/System apps/Notes</string>
+     <string name="theme_title_antique">Antique</string>
+     <string name="theme_title_arty">Arty</string>
+     <string name="theme_title_blue">Blue</string>
+     <string name="theme_title_candy">Candy</string>
+     <string name="theme_title_dark">Dark</string>
+     <string name="theme_title_default">Default</string>
+     <string name="theme_title_green">Green</string>
+     <string name="theme_title_invitation">Invitation</string>
+     <string name="theme_title_red">Red</string>
+     <string name="theme_title_star">Star</string>
+     <string name="theme_title_yellow">Yellow</string>
+     <string name="toast_mark_privacy_notes">Mark privacy successfully</string>
+     <string name="toast_mark_privacy_notes_count">Mark %1$s as private successfully</string>
+     <string name="toast_privacy_mode">Can not do that in privacy mode</string>
+     <string name="toast_unmark_privacy_notes">Unmark privacy successfully</string>
+     <string name="toast_unmark_privacy_notes_count">Mark %1$s as normal successfully</string>
+</resources>

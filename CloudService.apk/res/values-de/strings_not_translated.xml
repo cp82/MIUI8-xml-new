@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="find_device_error_password_changed">Account password has been recently changed.</string>
+     <string name="master_alert_notif_content">%d data did not sync.</string>
+     <string name="micloud_detail_battery_low_message">Battery is low. Please charge your phone and sync.</string>
+     <string name="micloud_detail_battery_low_title">Battery is low</string>
+     <string name="micloud_detail_depend_wifi_message">Please connect to WLAN or check the sync settings.</string>
+     <string name="micloud_detail_depend_wifi_title">Need WLAN</string>
+     <string name="micloud_detail_do_not_sync">Not sync</string>
+     <string name="micloud_detail_force_sync">sync now</string>
+     <string name="micloud_detail_not_sync">%d waiting to sync</string>
+     <string name="micloud_detail_ok">OK</string>
+     <string name="micloud_detail_preference_sync_items">Items</string>
+     <string name="micloud_detail_query_error">"Can't obtain sync state"</string>
+     <string name="micloud_detail_query_error_detail">"Can't check the sync state. Please contact the developers."</string>
+     <string name="micloud_detail_query_error_title">"Can't obtain sync state"</string>
+     <string name="micloud_detail_sync_now">Sync now</string>
+     <string name="micloud_main_multi_user_error_message">"You login the same account with the first space and micloud stops. If you want to backup data:
+
+1.Use another accout
+2.Transfer data to first space"</string>
+     <string name="micloud_main_multi_user_error_title">MiCloud stops</string>
+     <string name="micloud_main_not_sync">%d items waiting to sync</string>
+     <string name="micloud_main_query_error_message">"Can't assure whether sync is finished"</string>
+     <string name="micloud_main_query_error_title">"Can't obtain sync state"</string>
+     <string name="micloud_notif_content_multi_user_error">You login the same account with original space.</string>
+     <string name="micloud_notif_content_sync_finish">Account</string>
+     <string name="micloud_notif_content_sync_not_finish">Detail</string>
+     <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
+     <string name="micloud_notif_title_sync_finish">Synced</string>
+     <string name="micloud_notif_title_sync_not_finish">Not Synced</string>
+     <string name="micloud_notif_title_sync_progress">Syncing</string>
+     <string name="micloud_website">Cloud Data</string>
+     <string name="micloud_wipe_data_confirm_label">Remove data from Mi Cloud</string>
+     <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
+     <string name="micloud_wipe_data_remove">Remove</string>
+     <string name="micloud_wipe_data_retain">Leave</string>
+     <string name="sub_alert_notif_content">Turn on MiCloud</string>
+     <string name="wipe_data_dialog_button_check_sync">Check if synced</string>
+     <string name="wipe_data_dialog_msg">"%s weren't synced and will stay on your phone."</string>
+     <string name="wipe_data_dialog_msg_and_on">, and some other items</string>
+     <string name="wipe_data_dialog_title">"Some items haven't been synced"</string>
+</resources>
