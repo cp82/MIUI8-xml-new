@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
-<resources>
-     <string name="HIPS_Action_Accept_Once">Einmal erlauben</string>
-     <string name="HIPS_Perm_read_notification_sms">Servicenachricht</string>
-     <string name="HIPS_Perm_read_notification_sms_Desc">Servicenachricht lesen</string>
-     <string name="wakepath_confirm_start_activity">%1$s erlauben, %2$s zu öffnen?</string>
-</resources>
