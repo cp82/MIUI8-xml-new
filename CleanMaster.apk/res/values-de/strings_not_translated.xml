@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="authorize_detail">Blocked %d apps</string>
-     <string name="back">Back</string>
-     <string name="button_text_install_now">Install</string>
-     <string name="buy_immediately">Buy</string>
-     <string name="buy_traffic_pack">Buy more data</string>
-     <string name="close_debug_mode">Click %1$d to close debug switch</string>
+     <string name="authorize_detail">%d Apps blockiert</string>
+     <string name="back">Zurück</string>
+     <string name="button_text_install_now">Installieren</string>
+     <string name="buy_immediately">Kaufen</string>
+     <string name="buy_traffic_pack">Mehr Datenguthaben kaufen</string>
+     <string name="close_debug_mode">%1$d anklicken um Debugswitch zu schliessen</string>
      <string name="conn_of_function_safe">Network connection for Security</string>
-     <string name="connecting">Connecting…</string>
+     <string name="connecting">Verbindet…</string>
      <string name="download">Download</string>
-     <string name="downloading">Downloading</string>
+     <string name="downloading">Lädt runter</string>
      <string name="empty">" "</string>
      <string name="garbage_clean_detail">Details</string>
-     <string name="garbage_cleanup_detail">%1$d times, cleaned %2$s</string>
-     <string name="garbage_month">Cleaned %s this month</string>
-     <string name="harass_detail">Blocked %1$d SMS and %2$d calls</string>
-     <string name="just_now">Just now</string>
-     <string name="mainbtn_text_quick_cleanup_default">Clean up</string>
+     <string name="garbage_cleanup_detail">%1$d mal, gereinigt %2$s</string>
+     <string name="garbage_month">%s diesen Monat bereinigt</string>
+     <string name="harass_detail">%1$d SMS und %2$d Anrufe blockiert</string>
+     <string name="just_now">Jetzt</string>
+     <string name="mainbtn_text_quick_cleanup_default">Aufräumen</string>
      <string name="month_day_format">MMM dd</string>
-     <string name="name_debuglog_dir">Bsp Debug Log</string>
-     <string name="net_assistant_detail">Used %1$s, saved %2$s</string>
+     <string name="name_debuglog_dir">Bsp. Debuglog</string>
+     <string name="net_assistant_detail">Verbraucht %1$s, gespart %2$s</string>
      <string name="net_assistant_title">Used %s of mobile data this month</string>
      <string name="network_not_available">"Can't connect to the network"</string>
      <string name="no_network">"Couldn't connect to network, try again later"</string>
