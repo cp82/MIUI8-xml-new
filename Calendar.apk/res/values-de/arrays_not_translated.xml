@@ -35,7 +35,7 @@
         <item>Hawaii</item>
         <item>Alaska</item>
         <item>Pacific Time</item>
-        <item>Mexiko, Baja California, Tijuana</item>
+        <item>Tijuana</item>
         <item>Arizona</item>
         <item>Chihuahua</item>
         <item>Mountain Time</item>
@@ -43,22 +43,22 @@
         <item>Central Time</item>
         <item>Mexico-Stadt</item>
         <item>Saskatchewan</item>
-        <item>Kolumbien, Bogotà</item>
+        <item>Bogotà</item>
         <item>Eastern Time</item>
         <item>Venezuela</item>
         <item>Atlantic Time (Barbados)</item>
         <item>Atlantic Time (Kanada)</item>
-        <item>Brasilien, Amazonas, Manaus</item>
-        <item>Chile, Santiago</item>
+        <item>Manaus</item>
+        <item>Santiago</item>
         <item>Neufundland</item>
-        <item>Brasilien, Brasília</item>
-        <item>Argentinien, Buenos Aires</item>
+        <item>Brasília</item>
+        <item>Buenos Aires</item>
         <item>Grönland</item>
-        <item>Uruguay, Montevideo</item>
-        <item>Mid-Atlantic</item>
+        <item>Montevideo</item>
+        <item>Mittelatlantik</item>
         <item>Azoren</item>
         <item>Kap Verde</item>
-        <item>Marokko, Casablanca</item>
+        <item>Casablanca</item>
         <item>London, Dublin</item>
         <item>Amsterdam, Berlin</item>
         <item>Belgrad</item>
@@ -81,7 +81,7 @@
         <item>Teheran</item>
         <item>Baku</item>
         <item>Tiflis</item>
-        <item>Armenien, Eriwan</item>
+        <item>Eriwan</item>
         <item>Dubai</item>
         <item>Kabul</item>
         <item>Islamabad, Karachi</item>
