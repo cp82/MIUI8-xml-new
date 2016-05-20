@@ -3,7 +3,7 @@
 <resources>
      <string name="birthday_calendar_display_name">Geburtstagserinnerungen</string>
      <string name="birthday_event_description_a_week_ago">Vor einer Woche</string>
-     <string name="custom">"Benutzerdefiniert (kann nicht am Telefon angepasst werden)"</string>
+     <string name="custom">Benutzerdefiniert (kann nicht am Telefon angepasst werden)</string>
      <string name="download_finished">Download abgeschlossen</string>
      <string name="downloaded">Heruntergeladen</string>
      <string name="downloading">Herunterladen</string>
@@ -28,5 +28,5 @@
      <string name="setting_others">Zusätzliches</string>
      <string name="settings_calendar">Kalender</string>
      <string name="sms_import_description">Zur besseren Verwaltung Textnachrichten mit Kalendereinträgen in Kalender importieren</string>
-     <string name="work_day_default_banner_title">Geld wächst nicht auf Bäumen, Überstunden sind eine Alternative!</string>
+     <string name="work_day_default_banner_title">Geld wächst nicht auf Bäumen, Überstunden sind eine Lösung!</string>
 </resources>
