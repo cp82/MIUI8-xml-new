@@ -24,7 +24,7 @@
      <string name="preferences_history_events">Zeige vergangene Ereignisse</string>
      <string name="preferences_holidays">Zeige Feiertage</string>
      <string name="preferences_solar_terms">Zeige Sonnentage</string>
-     <string name="search_calendar">Kalender;Agenda;Erinnerung</string>
+     <string name="search_calendar">Kalender;Tagesplanung;Erinnerung</string>
      <string name="setting_holiday">Feiertage</string>
      <string name="setting_others">Zusätzliches</string>
      <string name="settings_calendar">Kalender</string>
