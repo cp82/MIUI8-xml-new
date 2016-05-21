@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="areacode_set_default">Set as default</string>
-     <string name="call_button_dialer_text">Keyboard</string>
-     <string name="call_button_tools_text">Feature</string>
-     <string name="can_not_use">"Can't use"</string>
      <string name="incoming_circle_text_answer">Loosen answer</string>
      <string name="incoming_circle_text_answer_p">Answering slide</string>
      <string name="incoming_circle_text_message">Loosen SMS reply</string>
