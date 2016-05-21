@@ -6,13 +6,13 @@
      <string name="enable_power_save_mode">Energiesparmodus aktivieren</string>
      <string name="float_incall_ignore">Ignorieren</string>
      <string name="float_incall_message">Nachricht</string>
-     <string name="long_screenshot_not_support_msg">Aktuelle App kann Screenshot nicht suppoted.</string>
+     <string name="long_screenshot_not_support_msg">Aktuelle App unterstützt keinen Screenshot</string>
      <string name="long_screenshot_out_of_memory_error">Fehlgeschlagen, das Bild ist zu groß</string>
-     <string name="long_screenshot_processing">Bearbeitungs...</string>
+     <string name="long_screenshot_processing">Wird bearbeitet...</string>
      <string name="long_screenshot_stop">Stop</string>
      <string name="long_screenshot_top_msg">Taking longer screenshot...</string>
      <string name="network_speed_suffix">%1$s%2$s</string>
-     <string name="no_weather_description">Wetter Infos erhalten</string>
+     <string name="no_weather_description">Wetterinfos erhalten</string>
      <string name="notification_manager">Benachrichtigungen verwalten</string>
      <string name="notification_manager_des">Filtern und Benachrichtigungen verwalten</string>
      <string name="quick_settings_connect_success">Verbunden</string>
@@ -25,13 +25,13 @@
      <string name="recent_task_lock_text">Taskmanager sperren</string>
      <string name="save_mode_btn_ok">OK</string>
      <string name="screenshot_edit">Bearbeiten</string>
-     <string name="screenshot_long_screenshot">Mehr Schuss</string>
+     <string name="screenshot_long_screenshot">Länger aufnehmen</string>
      <string name="screenshot_send">Senden</string>
-     <string name="status_bar_clock_date_format">EEEE, d MMMM</string>
+     <string name="status_bar_clock_date_format">EEEE, d. MMMM</string>
      <string name="status_bar_safepay_risk">Zahlungsumfeld ist riskant!</string>
      <string name="status_bar_safepay_safe">Zahlungsumfeld ist sicher.</string>
-     <string name="status_bar_safepay_scanning">Zahlungsumfeld wird erkennen...</string>
-     <string name="status_bar_safepay_unknown">Zahlungssicherheit ist unbekannt.</string>
+     <string name="status_bar_safepay_scanning">Zahlungsumfeld wird erkannt...</string>
+     <string name="status_bar_safepay_unknown">Zahlungssicherheit ist unbekannt</string>
      <string name="weather_description">%1$s | %2$s ></string>
      <string name="weather_description_no_aqi">%1$s ></string>
 </resources>
