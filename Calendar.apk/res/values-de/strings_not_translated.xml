@@ -20,6 +20,7 @@
      <string name="insert_event_toast_add_success">Ereignis erstellt</string>
      <string name="menu_reminder_preferences">Erinnerungen</string>
      <string name="notification_online">%1$s: %2$s neues Ereignis</string>
+     <string name="path_calendar">Kalender/Einstellungen</string>
      <string name="preferences_history_events">Zeige vergangene Ereignisse</string>
      <string name="preferences_holidays">Zeige Feiertage</string>
      <string name="preferences_solar_terms">Zeige Sonnentage</string>
