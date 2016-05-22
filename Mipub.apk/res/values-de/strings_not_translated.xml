@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="message_block_confirmation">Block messages from this account?</string>
-     <string name="message_block_processing">Working…</string>
-     <string name="message_block_reminder">Reminder</string>
-     <string name="message_list_all_read">Mark all as read</string>
+     <string name="message_block_confirmation">Nachrichten von diesem Account blockieren?</string>
+     <string name="message_block_processing">Verarbeite…</string>
+     <string name="message_block_reminder">Erinnerung</string>
+     <string name="message_list_all_read">Alle als gelesen markieren</string>
 </resources>
