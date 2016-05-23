@@ -2,7 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string-array name="invisible_app_groups">
-        <item>selected</item>
-        <item>unselected</item>
+        <item>ausgewählt</item>
+        <item>nicht gewählt</item>
      </string-array>
 </resources>
