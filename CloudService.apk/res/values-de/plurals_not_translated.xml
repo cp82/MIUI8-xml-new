@@ -2,31 +2,31 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d blocklist entries</item>
-        <item quantity="one">%d blocklist entry</item>
+        <item quantity="other">%d Blockierlisteneinträge</item>
+        <item quantity="one">%d Blockierlisteneinträge</item>
      </plurals>
      <plurals name="dirty_browser_count">
-        <item quantity="other">%d browser items</item>
-        <item quantity="one">%d browser item</item>
+        <item quantity="other">%d Browsereinträge</item>
+        <item quantity="one">%d Browsereinträge</item>
      </plurals>
      <plurals name="dirty_calendar_count">
-        <item quantity="other">%d calendar items</item>
-        <item quantity="one">%d calendar item</item>
+        <item quantity="other">%d Kalendereinträge</item>
+        <item quantity="one">%d Kalendereinträge</item>
      </plurals>
      <plurals name="dirty_callog_count">
-        <item quantity="other">%d call history records</item>
-        <item quantity="one">%d call history record</item>
+        <item quantity="other">%d Anruflisteneinträge</item>
+        <item quantity="one">%d Anruflisteneinträge</item>
      </plurals>
      <plurals name="dirty_music_count">
-        <item quantity="other">%d songs</item>
-        <item quantity="one">%d song</item>
+        <item quantity="other">%d Titel</item>
+        <item quantity="one">%d Titel</item>
      </plurals>
      <plurals name="dirty_recorder_count">
-        <item quantity="other">%d records</item>
-        <item quantity="one">%d record</item>
+        <item quantity="other">%d Aufnahmen</item>
+        <item quantity="one">%d Aufnahmen</item>
      </plurals>
      <plurals name="dirty_wlan_count">
-        <item quantity="other">%d WLAN networks</item>
-        <item quantity="one">%d WLAN network</item>
+        <item quantity="other">%d WLANs</item>
+        <item quantity="one">%d WLANs</item>
      </plurals>
 </resources>
