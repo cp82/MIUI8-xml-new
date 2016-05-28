@@ -3,7 +3,7 @@
 <resources>
      <!-- Size mismatch! Translated: 3, Original: 2 -->
      <plurals name="voip_contacts_count">
-        <item quantity="other">%1$d people</item>
-        <item quantity="one">%1$d person</item>
+        <item quantity="other">%1$d Personen</item>
+        <item quantity="one">%1$d Person</item>
      </plurals>
 </resources>
