@@ -2,8 +2,8 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="dirty_blocklist_count">
-        <item quantity="other">%d Blockierlisteneinträge</item>
-        <item quantity="one">%d Blockierlisteneinträge</item>
+        <item quantity="other">%d Sperrlisteneinträge</item>
+        <item quantity="one">%d Sperrlisteneinträge</item>
      </plurals>
      <plurals name="dirty_browser_count">
         <item quantity="other">%d Browsereinträge</item>
