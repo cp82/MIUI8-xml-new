@@ -3,18 +3,18 @@
 <resources>
      <!-- Size mismatch! Translated: 9, Original: 13 -->
      <string-array name="welcome_notes_content">
-        <item>"Welcome to Notes
+        <item>"Willkommen bei Notizen
 "</item>
-        <item>"Tap to create a note
+        <item>"Antippen um eine Notiz erstellen
 "</item>
-        <item>"Choose beautiful theme
+        <item>"Wählen Sie ein schönes Thema
 "</item>
-        <item>"Create note folder
+        <item>"Erstellen Sie Notizordner
 "</item>
-        <item>"Protect private notes
+        <item>"Schützen Sie private Notizen
 "</item>
-        <item>"And more great features!
-  - Sync with Mi Cloud
-  - Set reminders"</item>
+        <item>"Und weitere tolle Features!
+  - Sync mit Mi Cloud
+  - Erinnerungen einstellen"</item>
      </string-array>
 </resources>
