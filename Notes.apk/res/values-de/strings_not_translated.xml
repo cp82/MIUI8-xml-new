@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="delete_folder_dialog_tile">Delete folder</string>
-     <string name="dlg_move_message">Moving…</string>
-     <string name="dlg_privacy_message">Marking privacy…</string>
-     <string name="dlg_stick_message">Sticking…</string>
-     <string name="dlg_unmark_privacy_message">Unmarking privacy…</string>
-     <string name="empty_folder_hint">"The folder list is empty
-Click add button to create folder"</string>
-     <string name="menu_mark_privacy">Mark Privacy</string>
-     <string name="menu_move_to">Move to</string>
-     <string name="menu_unmark_privacy">Unmark Privacy</string>
-     <string name="privacy_hint">Privacy</string>
-     <string name="privacy_notes_fragment_title">Privacy notes</string>
-     <string name="rename_folder_dialog_tile">Rename folder</string>
-     <string name="search_keyword_notes">Notes;Memo</string>
-     <string name="search_path_notes">Settings/System apps/Notes</string>
-     <string name="theme_title_antique">Antique</string>
-     <string name="theme_title_arty">Arty</string>
-     <string name="theme_title_blue">Blue</string>
-     <string name="theme_title_candy">Candy</string>
-     <string name="theme_title_dark">Dark</string>
-     <string name="theme_title_default">Default</string>
-     <string name="theme_title_green">Green</string>
-     <string name="theme_title_invitation">Invitation</string>
-     <string name="theme_title_red">Red</string>
-     <string name="theme_title_star">Star</string>
-     <string name="theme_title_yellow">Yellow</string>
-     <string name="toast_mark_privacy_notes">Mark privacy successfully</string>
-     <string name="toast_mark_privacy_notes_count">Mark %1$s as private successfully</string>
-     <string name="toast_privacy_mode">Can not do that in privacy mode</string>
-     <string name="toast_unmark_privacy_notes">Unmark privacy successfully</string>
-     <string name="toast_unmark_privacy_notes_count">Mark %1$s as normal successfully</string>
+     <string name="delete_folder_dialog_tile">Ordner löschen</string>
+     <string name="dlg_move_message">Verschieben…</string>
+     <string name="dlg_privacy_message">als Privat markieren…</string>
+     <string name="dlg_stick_message">Anheften…</string>
+     <string name="dlg_unmark_privacy_message">Privat entfernen…</string>
+     <string name="empty_folder_hint">"Die Ordnerliste ist leer
+Taste berühren um einen neuen Ordner erstellen"</string>
+     <string name="menu_mark_privacy">als Privat markieren</string>
+     <string name="menu_move_to">Verschieben nach</string>
+     <string name="menu_unmark_privacy">als Normal markiert</string>
+     <string name="privacy_hint">Privat</string>
+     <string name="privacy_notes_fragment_title">Private Notizen</string>
+     <string name="rename_folder_dialog_tile">Ordner umbenennen</string>
+     <string name="search_keyword_notes">Notizen;Memo</string>
+     <string name="search_path_notes">Einstellungen/Systemapps/Notizen</string>
+     <string name="theme_title_antique">Antik</string>
+     <string name="theme_title_arty">Künstlerisch</string>
+     <string name="theme_title_blue">Blau</string>
+     <string name="theme_title_candy">Süsses</string>
+     <string name="theme_title_dark">Dunkel</string>
+     <string name="theme_title_default">Standard</string>
+     <string name="theme_title_green">Grün</string>
+     <string name="theme_title_invitation">Einladung</string>
+     <string name="theme_title_red">Rot</string>
+     <string name="theme_title_star">Stern</string>
+     <string name="theme_title_yellow">Gelb</string>
+     <string name="toast_mark_privacy_notes">Erfolgreich als Privat markiert</string>
+     <string name="toast_mark_privacy_notes_count">%1$s erfolgreich als Privat markiert</string>
+     <string name="toast_privacy_mode">Das kann im Privatmodus nicht gemacht werden</string>
+     <string name="toast_unmark_privacy_notes">Erfolgreich als Normal markiert</string>
+     <string name="toast_unmark_privacy_notes_count">%1$s erfolgreich als Normal markiert</string>
 </resources>
