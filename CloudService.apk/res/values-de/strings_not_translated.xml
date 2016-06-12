@@ -30,7 +30,7 @@
      <string name="micloud_notif_title_sync_progress">Synchronisieren</string>
      <string name="micloud_website">Cloud Daten</string>
      <string name="micloud_wipe_data_confirm_label">Entferne Daten aus der Mi Cloud</string>
-     <string name="micloud_wipe_data_confirm_title">Remove items synced with Mi Cloud from the phone after you sign out?</string>
+     <string name="micloud_wipe_data_confirm_title">Sollen mit der Mi Cloud synchronisierte Einträge vom Telefon nach dem Ausloggen gelöscht werden?</string>
      <string name="micloud_wipe_data_remove">Entfernen</string>
      <string name="micloud_wipe_data_retain">Verlassen</string>
      <string name="sub_alert_notif_content">Mi Cloud einschalten </string>
