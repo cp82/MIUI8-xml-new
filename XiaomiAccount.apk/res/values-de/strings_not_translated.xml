@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="delete_bank_card_message">To protected your property,will delete your bank card After signing out</string>
-     <string name="delete_bank_card_title">Delete your bank card</string>
+     <string name="delete_bank_card_message">So schützen Sie Ihr Eigentum, Ihre Bank-Karte nach dem Abmelden löschen</string>
+     <string name="delete_bank_card_title">Bank Karte löschen</string>
 </resources>
