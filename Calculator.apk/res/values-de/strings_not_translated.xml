@@ -7,7 +7,7 @@
      <string name="fund_loan" />
      <string name="income_type" />
      <string name="month" />
-     <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereit gestellt</string>
+     <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereitgestellt</string>
      <string name="social_security" />
      <string name="start_calculate" />
      <string name="tax_edittext_hint" />
