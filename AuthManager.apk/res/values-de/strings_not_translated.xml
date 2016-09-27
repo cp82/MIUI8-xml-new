@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="HIPS_Perm_get_tasks">Get tasks</string>
-     <string name="HIPS_Perm_get_tasks_Desc">get tasks</string>
+     <string name="HIPS_Perm_get_tasks">Erhalte Aufgabe</string>
+     <string name="HIPS_Perm_get_tasks_Desc">erhalte Aufgabe</string>
 </resources>
