@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="app_charging_wifi_mode">Charging to update app</string>
-     <string name="app_charging_wifi_mode_summary">Update app automatically when connected to WLAN and in charging</string>
+     <string name="app_charging_wifi_mode">Lädt um die App zu aktualisieren</string>
+     <string name="app_charging_wifi_mode_summary">App wird automatisch aktualisiert wenn das Gerät geladen wird und mit einem WLAN verbunden ist</string>
      <string name="font_family">miui</string>
-     <string name="hint_apk_download_format">Install \"%1$s\" application</string>
+     <string name="hint_apk_download_format"> \"%1$s\" installieren</string>
      <string name="live">Live</string>
      <string name="path_develop_settings">System App/Video/Develop Settings</string>
      <string name="path_settings">System App/Video/Settings</string>
-     <string name="vp_select_tv">Channels</string>
+     <string name="vp_select_tv">Kanäle</string>
      <string name="vp_time_separator">/</string>
 </resources>
