@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="delete_bank_card_message">So schützen Sie Ihr Eigentum, Ihre Bank-Karte nach dem Abmelden löschen</string>
-     <string name="delete_bank_card_title">Bank Karte löschen</string>
+     <string name="delete_bank_card_message">Um ihr Eigentum zu schützen werden wir ihre Bankkarte nach dem Abmelden löschen</string>
+     <string name="delete_bank_card_title">Bankkarte löschen</string>
 </resources>
