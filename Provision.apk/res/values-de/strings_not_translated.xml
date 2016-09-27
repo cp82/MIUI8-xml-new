@@ -2,7 +2,7 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <string name="app_name">Provision</string>
-     <string name="content_description_language_picker">Select language</string>
+     <string name="content_description_language_picker">Sprache wählen</string>
      <string name="content_description_miui_version">MIUI 8</string>
      <string name="desc_extra_international_fingerprint" />
 </resources>
