@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="current_using_desktop_wallpaper_text">Home screen</string>
-     <string name="current_using_lockscreen_wallpaper_text">Lock screen</string>
-     <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 8. Some elements may be displayed incorrectly.</string>
-     <string name="incompatible_dialog_ok">Got it</string>
-     <string name="incompatible_dialog_title">Compatibility issues</string>
+     <string name="current_using_desktop_wallpaper_text">Startbildschirm</string>
+     <string name="current_using_lockscreen_wallpaper_text">Sperrbildschirm</string>
+     <string name="incompatible_dialog_message">Dieses Theme ist mit MIUI 8 nicht vollständig kompatibel. Einzelne Elemente können fehlerhaft angezeigt werden.</string>
+     <string name="incompatible_dialog_ok">Verstanden</string>
+     <string name="incompatible_dialog_title">Kompatibilitätsprobleme</string>
 </resources>
