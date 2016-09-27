@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
-<resources>
-     <string name="ssl_error_continue">Trotzdem im Browser fortfahren</string>
-     <string name="ssl_error_example">Die Loginseite könnte zum Beispiel nicht zum angezeigten Unternehmen gehören.</string>
-     <string name="ssl_error_warning">Das Netzwerk mit dem Sie sich verbinden möchten, hat Sicherheitsprobleme.</string>
-</resources>
