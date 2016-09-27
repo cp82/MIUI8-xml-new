@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="children_mode_tips_message">There is no application in child mode. Please select application.</string>
+     <string name="children_mode_tips_message">Im Kindermodus gibt es keine App, bitte wählen Sie eine App.</string>
      <string name="default_folder_title_telcel">Telcel</string>
 </resources>
