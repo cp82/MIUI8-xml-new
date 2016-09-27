@@ -37,8 +37,8 @@
      <string name="pref_camera_beautify_entryvalue_low">1</string>
      <string name="pref_camera_beautify_entryvalue_normal">2</string>
      <string name="pref_camera_exposuretime_entry_500">1/500s</string>
-     <string name="pref_camera_tilt_shift_entryvalue_circle">circle</string>
-     <string name="pref_camera_tilt_shift_entryvalue_parallel">parallel</string>
+     <string name="pref_camera_tilt_shift_entryvalue_circle">Kreis</string>
+     <string name="pref_camera_tilt_shift_entryvalue_parallel">Parallel</string>
      <string name="pref_face_beauty_advanced">a:1</string>
      <string name="pref_skin_beautify_color_default">4</string>
      <string name="pref_skin_beautify_eye_default">2</string>
