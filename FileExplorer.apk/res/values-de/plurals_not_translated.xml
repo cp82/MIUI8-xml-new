@@ -2,11 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="follower_num">
-        <item quantity="other">followers</item>
-        <item quantity="zero">followers</item>
-        <item quantity="one">follower</item>
-        <item quantity="two">followers</item>
-        <item quantity="few">followers</item>
-        <item quantity="many">followers</item>
+        <item quantity="other">Abonnenten</item>
+        <item quantity="zero">Abonnenten</item>
+        <item quantity="one">Abonnent</item>
+        <item quantity="two">Abonnenten</item>
+        <item quantity="few">Abonnenten</item>
+        <item quantity="many">Abonnenten</item>
      </plurals>
 </resources>
