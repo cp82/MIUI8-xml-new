@@ -2,11 +2,11 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="comment_count">
-        <item quantity="other">%d comments</item>
-        <item quantity="one">%d comment</item>
+        <item quantity="other">%d Kommentare</item>
+        <item quantity="one">%d Kommentar</item>
      </plurals>
      <plurals name="reader_count">
-        <item quantity="other">%d followers</item>
-        <item quantity="one">%d follower</item>
+        <item quantity="other">%d Abonnenten</item>
+        <item quantity="one">%d Abonnent</item>
      </plurals>
 </resources>
