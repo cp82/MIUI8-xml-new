@@ -2,13 +2,13 @@
 <!-- Parsed by jbart3h -->
 <resources>
      <plurals name="group_copy_success_toast">
-        <item quantity="other">Copied %1$d contacts</item>
+        <item quantity="other">%1$d Kontakte kopiert</item>
      </plurals>
      <plurals name="group_move_success_toast">
-        <item quantity="other">Moved %1$d contacts</item>
+        <item quantity="other"> %1$d Kontakte verschoben</item>
      </plurals>
      <plurals name="hint_account_contacts">
-        <item quantity="other">Found %1$d items</item>
-        <item quantity="one">Found %1$d item</item>
+        <item quantity="other">%1$d Einträge gefunden</item>
+        <item quantity="one">%1$d Einträge gefunden</item>
      </plurals>
 </resources>
