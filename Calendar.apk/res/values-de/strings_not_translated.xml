@@ -7,10 +7,10 @@
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_type_term_lunar" />
-     <string name="card_detail_dialog_message">“%1$s”内容每日更新，订阅后，即可每天浏览到当日最新的内容，不错过每日精彩。</string>
-     <string name="card_detail_dialog_negative">下次再说</string>
-     <string name="card_detail_dialog_positive">立即订阅</string>
-     <string name="card_detail_dialog_title">是否订阅</string>
+     <string name="card_detail_dialog_message">“%1$s”Der Inhalt wird täglich aktualisiert, nach dem Abonnement können Sie die neuesten Inhalte jeden Tag sehen./string>
+     <string name="card_detail_dialog_negative">Nächster</string>
+     <string name="card_detail_dialog_positive">jetzt abonnieren</string>
+     <string name="card_detail_dialog_title">abonnieren</string>
      <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
      <string name="card_detail_title">订阅详情</string>
      <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
