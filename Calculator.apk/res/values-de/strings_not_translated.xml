@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Parsed by jbart3h -->
 <resources>
-     <string name="combine_loan">Combined loan</string>
-     <string name="commercial_loan">Commercial loan</string>
+     <string name="combine_loan">Kombinierte Darlehen</string>
+     <string name="commercial_loan">Kommerzielle Darlehen</string>
      <string name="fund" />
      <string name="fund_loan" />
      <string name="income_type" />
      <string name="month" />
-     <string name="rate_data_provider">Interest rates are provided by hexun.com</string>
+     <string name="rate_data_provider">Die Zinssätze werden von hexun.com bereit gestellt</string>
      <string name="social_security" />
      <string name="start_calculate" />
      <string name="tax_edittext_hint" />
