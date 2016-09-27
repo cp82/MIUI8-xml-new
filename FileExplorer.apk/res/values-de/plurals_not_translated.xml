@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="follower_num">
+        <item quantity="other">followers</item>
+        <item quantity="zero">followers</item>
+        <item quantity="one">follower</item>
+        <item quantity="two">followers</item>
+        <item quantity="few">followers</item>
+        <item quantity="many">followers</item>
+     </plurals>
+</resources>

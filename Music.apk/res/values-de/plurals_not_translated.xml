@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <plurals name="comment_count">
+        <item quantity="other">%d comments</item>
+        <item quantity="one">%d comment</item>
+     </plurals>
+     <plurals name="reader_count">
+        <item quantity="other">%d followers</item>
+        <item quantity="one">%d follower</item>
+     </plurals>
+</resources>

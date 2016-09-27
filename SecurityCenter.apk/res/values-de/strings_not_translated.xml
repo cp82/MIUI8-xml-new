@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="bind_xiaomi_account_cancel">Cancel</string>
+     <string name="bind_xiaomi_account_confirm">Add</string>
+     <string name="bind_xiaomi_account_dialog_summery">"You're about to add Mi Account %s. If you forget your password, you can use this account to reset it. Account will be removed automatically if you sign out."</string>
+     <string name="bind_xiaomi_account_success">Mi Account added successfully</string>
+     <string name="bind_xiaomi_account_summary">Use Mi Account to reset your password</string>
+     <string name="bind_xiaomi_account_title">Add Mi Account</string>
+     <string name="byteShort">B</string>
+     <string name="confirm_bind_xiaomi_account_dialog_title">Adding Mi Account</string>
+     <string name="header_info_scan_progress">%d%%</string>
+     <string name="password_promotion_button_text">Got it</string>
+     <string name="password_promotion_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it.</string>
+     <string name="password_promotion_not_login_xiaomi_account_message">App lock is being upgraded to Privacy protection password. You can use your current Mi Account to reset it. Add your Mi Account to be able to do that.</string>
+     <string name="password_promotion_postbutton_text">Go to Settings</string>
+     <string name="password_promotion_title">Privacy protection password</string>
+     <string name="preference_category_information_setting">category_information_setting</string>
+     <string name="preference_key_category_title_module_feature_settings">key_category_title_module_feature_settings</string>
+     <string name="preference_key_information_setting_close">key_information_setting_close</string>
+     <string name="preference_key_information_setting_wlan">key_information_setting_wlan</string>
+     <string name="preference_key_payment_security">key_module_payment_security</string>
+     <string name="preference_key_permcenter_install_intercept_enabled">key_permcenter_install_intercept_enabled</string>
+     <string name="preference_key_shortcut_safepay">key_shortcut_safepay</string>
+     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
+     <string name="set_applock_password">Set password</string>
+     <string name="setting_privacy_password">Set Privacy protection password</string>
+     <string name="sp_settings_group_title_omit">Omitted items</string>
+     <string name="sp_settings_root_title_omit">Check root access</string>
+     <string name="tc_diagnostic_brand_result">"&lt;font color='#CC0000'>Result: Wrong carrier brand&lt;br/>&lt;br/>Set brand: &lt;xliff:g id=brand example=UNICOM 3G>%1$s&lt;/xliff:g>&lt;br/>Actual brand: &lt;xliff:g id=location example=UNICOM 4G>%2$s&lt;/xliff:g>&lt;/font>"</string>
+     <string name="tc_diagnostic_fragment_default">"About diagnostics
+1. The device will connect to the carrier's network, send a free message, and wait for the carrier's response. This may take up to 5 minutes.
+2. You can leave this page during the diagnostics, it will be carried out in the background."</string>
+     <string name="tc_diagnostic_notification_summary">"Couldn't adjust 5 times in a row. Tap to start diagnostics."</string>
+     <string name="tc_diagnostic_operator_result">"&lt;font color='#CC0000'>Result: Wrong carrier&lt;br/>&lt;br/>Set carrier: &lt;xliff:g id=operator example=CMCC>%1$s&lt;/xliff:g>&lt;br/>Actual carrier: &lt;xliff:g id=location example=UNICOM>%2$s&lt;/xliff:g>&lt;/font>"</string>
+     <string name="tc_diagnostic_result">"&lt;font color='#CC0000'>Result: Couldn't complete diagnostics&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+     <string name="tc_diagnostic_sim_location_result">"&lt;font color='#CC0000'>Result: Wrong location&lt;br/>&lt;br/>Set location: &lt;xliff:g id=location example=BeiJing>%1$s&lt;/xliff:g>&lt;br/>Actual location: &lt;xliff:g id=location example=ShangHai>%2$s&lt;/xliff:g>&lt;/font>"</string>
+     <string name="tc_diagnostic_success_result">"&lt;font color='#CC0000'>Result: Carrier network and brand set correctly&lt;br/>&lt;br/>Couldn't complete adjustment:&lt;br/>1. Carrier stats may not be reliable at the beginning or at the end of the month.&lt;br/>2. Network assistant wasn't updated.&lt;br/>&lt;br/>Report this issue to help MIUI improve diagnostic tools&lt;/font>"</string>
+     <string name="tc_sms_report_get_sms_bill">Get SMS</string>
+     <string name="tc_sms_report_get_sms_calltime">Get SMS</string>
+     <string name="tc_sms_report_title_bill">Report data usage bug</string>
+     <string name="tc_sms_report_title_calltime">Report data usage bug</string>
+</resources>

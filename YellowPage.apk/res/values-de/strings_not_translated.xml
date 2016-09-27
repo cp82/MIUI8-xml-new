@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="add_to_desktop">Add to desktop</string>
+     <string name="agree_to_continue">Continue</string>
+     <string name="agree_to_turn_on">Agree</string>
+     <string name="data_error_show">An error occurred</string>
+     <string name="didi_back">back</string>
+     <string name="didi_close">close</string>
+     <string name="express_inquiry_and_send">Tracking and sending</string>
+     <string name="express_inquiry_status_delivered">Delivered</string>
+     <string name="express_inquiry_status_difficult_goods">Unknown</string>
+     <string name="express_inquiry_status_dispatch">Dispatching</string>
+     <string name="express_inquiry_status_on_the_way">On the way</string>
+     <string name="express_inquiry_status_receipted">Received</string>
+     <string name="express_inquiry_status_return">Return</string>
+     <string name="express_inquiry_status_sign_out">Rejected</string>
+     <string name="express_inquiry_status_unknown">Unknown</string>
+     <string name="express_shortcut_name">Query or send express</string>
+     <string name="express_show_all_inquiry_history">Show all inquiry history</string>
+     <string name="homepage_barcode_prompt">Scan to open home page</string>
+     <string name="mark_number_check_choose_others">Choose others</string>
+     <string name="mark_number_check_dialog_title">Mark number</string>
+     <string name="mark_number_check_most_choice">(Most Users Choice)</string>
+     <string name="mark_number_delete_confirm_message">Remove flag info %s ?</string>
+     <string name="mark_number_delete_confirm_title">Remove flag info</string>
+     <string name="mark_number_feedback_not_number">"It's not %s number"</string>
+     <string name="mark_number_feedback_personal_number">"It's personal number"</string>
+     <string name="more_express_numbers">More express numbers</string>
+     <string name="open_installed_app">Open</string>
+     <string name="phone_event_setting_notice_text_with_contacts_permission">"By using this feature you're agreeing to our %1$s and %2$s. Access to your contacts is required."</string>
+     <string name="share">Share</string>
+     <string name="title_activity_di_di_web">DiDi</string>
+     <string name="turn_off_hint_title">Turn off Caller ID?</string>
+     <string name="turn_off_phone_event_hint">"You won't be able to see flag info for unknown phone numbers."</string>
+     <string name="turn_off_smart_antispam_hint">"You won't be able to see flag info for incoming calls from unknown phone numbers."</string>
+     <string name="turn_on_phone_event_dialog_title">Update Caller ID database</string>
+</resources>

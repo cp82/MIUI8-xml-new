@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="anniversary_metric" />
+     <string name="birthday_event_description_detail_leap" />
+     <string name="birthday_event_description_detail_smart" />
+     <string name="birthday_metric" />
+     <string name="birthday_notification_age_term" />
+     <string name="birthday_notification_type_term_lunar" />
+     <string name="card_detail_dialog_message">“%1$s”内容每日更新，订阅后，即可每天浏览到当日最新的内容，不错过每日精彩。</string>
+     <string name="card_detail_dialog_negative">下次再说</string>
+     <string name="card_detail_dialog_positive">立即订阅</string>
+     <string name="card_detail_dialog_title">是否订阅</string>
+     <string name="card_detail_hint">订阅后，内容会展示到首页，每日更新</string>
+     <string name="card_detail_title">订阅详情</string>
+     <string name="card_manager_subtitle">点击订阅内容，完成订阅</string>
+     <string name="credit_card_source">来自短信的还款提醒</string>
+     <string name="fortune_birthday">生日</string>
+     <string name="fortune_card_caiwei">财位：</string>
+     <string name="fortune_card_set_bazi">设置生辰八字</string>
+     <string name="fortune_card_taohua">桃花：</string>
+     <string name="fortune_card_working">事业学业运势：</string>
+     <string name="fortune_card_zhengchong">正冲：</string>
+     <string name="fortune_gender">性别</string>
+     <string name="fortune_label">每日运势</string>
+     <string name="fortune_name">称呼</string>
+     <string name="fortune_name_hint">请输入</string>
+     <string name="fortune_no_name">请填写称呼</string>
+     <string name="joke_card_click_toast">长按可复制笑话</string>
+     <string name="joke_card_long_click_toast">已复制，长按输入框即可粘贴</string>
+     <string name="joke_card_paste_suffix">【来自小米日历】</string>
+     <string name="miui_chinese_week_range_double" />
+     <string name="miui_chinese_week_range_single" />
+     <string name="preferences_default_reminder_default_value">10</string>
+     <string name="recommend_card_add">立即订阅</string>
+     <string name="recommend_card_adding">添加中</string>
+     <string name="recommend_card_close_hint">将为您减少类似订阅推荐</string>
+     <string name="recommend_card_from">来自订阅：</string>
+     <string name="repeat_lunar_yearly" />
+     <string name="subscribe_card">立即订阅</string>
+     <string name="subscribe_card_success">订阅“%1$s”成功</string>
+     <string name="subscribing_card">订阅中</string>
+     <string name="unsubscribe_card">退订</string>
+     <string name="unsubscribe_card_success">退订“%1$s”成功</string>
+     <string name="unsubscribing_card">退订中</string>
+</resources>

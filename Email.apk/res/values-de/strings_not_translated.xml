@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="account_cache_provider">Account Cache Provider</string>
+     <string name="conversation_content_provider">Conversation Content Provider</string>
+     <string name="email_setting_keywords">Accounts;Add account;mail accounts;add mail account;confirm before deleting;delete confirm;confirm before sending;send confirm;delete message flow;delete redirect;conversation view;mail conversation;battery saver;mail battery;send feedback;upload logs</string>
+     <string name="path_about_account_setting">Mail/Settings/Accounts</string>
+     <string name="path_about_add_account">Mail/Settings/Add account</string>
+     <string name="path_about_battery_saver">Mail/Settings/Battery saver</string>
+     <string name="path_about_confirm_before_delete">Mail/Settings/Confirm before deleting</string>
+     <string name="path_about_confirm_before_send">Mail/Settings/Confirm before sending</string>
+     <string name="path_about_conversation_view">Mail/Settings/Conversation view</string>
+     <string name="path_about_delete_message_flow">Mail/Settings/Delete message flow</string>
+     <string name="path_about_email_setting">Mail/Settings</string>
+     <string name="path_about_send_feed_back">Mail/Settings/Send feedback</string>
+     <string name="path_about_upload_logs">Mail/Settings/Upload logs</string>
+     <string name="report_rendering_improvement">Looks good</string>
+     <string name="report_rendering_improvement_desc">This message looks good.</string>
+     <string name="report_rendering_problem">Looks bad</string>
+     <string name="report_rendering_problem_desc">This message looks bad.</string>
+     <string name="upload_logs_keywords">upload logs</string>
+     <string name="wait_help_context">wait</string>
+</resources>

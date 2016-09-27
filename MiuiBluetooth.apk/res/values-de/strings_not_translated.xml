@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="ble_profile_1">ble_profile_mi_band</string>
+     <string name="ble_profile_2">ble_profile_mi_key</string>
+</resources>

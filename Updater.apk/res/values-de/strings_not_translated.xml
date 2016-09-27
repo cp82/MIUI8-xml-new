@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="button_delay_update_reboot">Reboot &amp; update</string>
+     <string name="delay_update_text">Update later</string>
+     <string name="dialog_delay_update_cancel">Cancel</string>
+     <string name="dialog_delay_update_msg">"Your device will reboot to apply updates when it's on and the battery is at least 30% charged"</string>
+     <string name="dialog_delay_update_title">Update is available</string>
+     <string name="dialog_delay_update_tonight">Update tonight</string>
+     <string name="notification_delay_update_button">Update in 2 hours</string>
+     <string name="notification_delay_update_cancel">"Don't update tonight"</string>
+     <string name="notification_delay_update_low_power">Looks like the battery was low at night</string>
+     <string name="notification_delay_update_msg">The device will reboot &amp; update in​ %ss</string>
+     <string name="notification_delay_update_no_update">"Updates haven't been applied"</string>
+     <string name="notification_delay_update_shutdown">Looks like the device was off at night</string>
+     <string name="toast_delay_update_tonight">Your device will update between 2:00AM and 5:00AM</string>
+</resources>

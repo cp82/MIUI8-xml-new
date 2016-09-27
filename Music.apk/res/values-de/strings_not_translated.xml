@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="comment_format" formatted="false">%s: %s</string>
+     <string name="settings_search_key_desktop_lyric">Home screen lyrics;Lyrics;Music;Songs</string>
+     <string name="settings_search_key_download_quality">Download quality;Quality;Music;Download;Songs</string>
+     <string name="settings_search_key_download_when_favorite">Download favorites;Download;Favorites;Music;Songs</string>
+     <string name="settings_search_key_main">Music;Songs;Song</string>
+     <string name="settings_search_key_notification">Music notifications;Music;Notifications;songs</string>
+     <string name="settings_search_key_vip_service">Premium songs;VIP;Song pack;Premium Song Pack;Member;Subscription;Music;Songs</string>
+</resources>

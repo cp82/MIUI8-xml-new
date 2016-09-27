@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="find_device_error_password_changed">Account password has been recently changed.</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_qq">Your QQ data will be safe even if you lose your device</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_wx">Your WeChat data will be safe even if you lose your device</string>
+     <string name="micloud_find_device_guide_noti_content_by_app_change_zfb">Your Alipay data will be safe even if you lose your device</string>
+     <string name="micloud_find_device_guide_noti_title_by_app_change_qq">QQ recommends you to turn on Find device</string>
+     <string name="micloud_notif_content_multi_user_error">You signed in with the same account as in First space.</string>
+     <string name="micloud_notif_title_multi_user_error">"Can't sync with Mi Cloud"</string>
+     <string name="micloud_request_permission_confirm">Got it</string>
+     <string name="micloud_request_permission_content">Mi Cloud needs permissions to sync data. Allow Mi Cloud to access Calendar, Contacts, Mi Account, SIM card status, call history, and messages.</string>
+     <string name="micloud_request_permission_title">Mi Cloud needs permissions</string>
+     <string name="provision_arrow_back">&lt;</string>
+     <string name="provision_arrow_next">></string>
+     <string name="trying_to_connect_to_network">Connecting to the network…</string>
+</resources>

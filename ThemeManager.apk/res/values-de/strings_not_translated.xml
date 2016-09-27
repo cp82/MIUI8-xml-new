@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="current_using_desktop_wallpaper_text">Home screen</string>
+     <string name="current_using_lockscreen_wallpaper_text">Lock screen</string>
+     <string name="incompatible_dialog_message">This theme isnt fully compatible with MIUI 8. Some elements may be displayed incorrectly.</string>
+     <string name="incompatible_dialog_ok">Got it</string>
+     <string name="incompatible_dialog_title">Compatibility issues</string>
+</resources>

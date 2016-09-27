@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="btn_change">Change</string>
+     <string name="choose_open_picture">选择操作</string>
+     <string name="dialog_btn_cancel">Cancel</string>
+     <string name="dialog_btn_ok">OK</string>
+     <string name="dialog_msg_recommend">"You won't be able to view recommended sources after you turn off. You can choose \"Load when connected to WLAN\" to save mobile data."</string>
+     <string name="dialog_title_recommend">Turn off recommended sources</string>
+     <string name="download_status_continue">Resume</string>
+     <string name="download_status_fail">Try again</string>
+     <string name="download_status_paused">Pause</string>
+     <string name="force_touch_newdownload">New download</string>
+     <string name="force_touch_rank">Rankings</string>
+     <string name="force_touch_search">Search the web</string>
+     <string name="home_page_new_download_guide">New downloads go here</string>
+     <string name="notify_install_guide_forward_text">Open</string>
+     <string name="notify_install_guide_msg">Installed successfully</string>
+     <string name="notify_install_guide_title">Installed %s successfully</string>
+     <string name="percent_title">%1$s people downloaded</string>
+</resources>

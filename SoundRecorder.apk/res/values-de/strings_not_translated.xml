@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Parsed by jbart3h -->
+<resources>
+     <string name="details">Details</string>
+     <string name="empty_recognition_tip">Empty</string>
+     <string name="export_to_note">Export to Notes</string>
+     <string name="invalid_argument">Invalid argument</string>
+     <string name="low_battery_error_confirm">OK</string>
+     <string name="low_battery_error_title">Low battery</string>
+     <string name="path_soundrecorder_setting">System apps/Recorder</string>
+     <string name="recognition_error_cancel">Canceled</string>
+     <string name="recognition_error_download_cancel">Later</string>
+     <string name="recognition_error_download_fail">"Couldn't download. Check network settings and try again."</string>
+     <string name="recognition_error_download_msg">Download recognition engine to make this service available.</string>
+     <string name="recognition_error_download_ok">Download</string>
+     <string name="recognition_error_download_title">No recognition engine</string>
+     <string name="recognition_error_downloading">Downloading</string>
+     <string name="recognition_error_engine">Recognition engine error</string>
+     <string name="recognition_error_engine_singleton">Recognition engine is busy</string>
+     <string name="recognition_error_format">Invalid audio format</string>
+     <string name="recognition_error_internal">Internal error</string>
+     <string name="recognition_error_stopped">Recognition stopped</string>
+     <string name="recognition_status_downloading">Downloading</string>
+     <string name="record_list_category_title_format">MMMM yyyy</string>
+     <string name="record_quliaty_preference_title">Recording quality</string>
+     <string name="runtime_permission_ungranted">"Can't use Recorder due to ungranted permissions"</string>
+     <string name="search_app">Recorder</string>
+     <string name="search_enable_earpiece_title">Use receiver to play audio</string>
+     <string name="search_led_indicator">Lock screen notifications</string>
+     <string name="search_led_indicator_prompt">While recording, show status bar shortcut and pulse notification light at Lock screen</string>
+     <string name="search_quliaty_title">Recording quality</string>
+     <string name="search_scenes">Recording type</string>
+     <string name="search_silent_mode">Mute ringer when recording</string>
+     <string name="search_tip_rename">Name recordings manually</string>
+     <string name="share">Share</string>
+     <string name="share_dialog_title">Share using</string>
+     <string name="speech_recognition_complete">Complete</string>
+     <string name="speech_recognition_running_tip">Running</string>
+     <string name="timer_format_three_sections" formatted="false">%02d:%02d:%02d</string>
+</resources>
