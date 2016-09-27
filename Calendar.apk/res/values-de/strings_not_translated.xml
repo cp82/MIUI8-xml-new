@@ -7,7 +7,7 @@
      <string name="birthday_metric" />
      <string name="birthday_notification_age_term" />
      <string name="birthday_notification_type_term_lunar" />
-     <string name="card_detail_dialog_message">“%1$s”Der Inhalt wird täglich aktualisiert, nach dem Abonnement können Sie die neuesten Inhalte jeden Tag sehen./string>
+     <string name="card_detail_dialog_message">“%1$s” Der Inhalt wird täglich aktualisiert, Sie sehen nach dem Abonnieren täglich die neusten Inhalte./string>
      <string name="card_detail_dialog_negative">Nächster</string>
      <string name="card_detail_dialog_positive">jetzt abonnieren</string>
      <string name="card_detail_dialog_title">abonnieren</string>
