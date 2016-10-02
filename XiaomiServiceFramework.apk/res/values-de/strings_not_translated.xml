@@ -1,6 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Parsed by jbart3h -->
-<resources>
-     <string name="activate_feature_default_name">Mi Services</string>
-     <string name="activate_sms_postfix">Dieses SMS wird für die Aktivierung des Mi Service benötigt.</string>
-</resources>
